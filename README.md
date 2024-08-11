@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MishGupta
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Full Stack
 - 📫 You can reach me on linkedin my id is www.linkedin.com/in/mishka-gupta-752484280
 - 😄 Pronouns: She/Her
