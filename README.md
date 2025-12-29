@@ -1,5 +1,33 @@
 # 💫 About Me:
-🚀 I'm currently working on<br><br>Projects for startups, focusing on building practical, scalable tech solutions<br><br>🤝 I'm looking to collaborate on<br><br>AI/ML projects<br><br>Web applications & product-based startups<br><br>Open-source projects with real-world impact<br><br>🧠 I'm looking for help with<br><br>Advanced AI concepts<br><br>Model optimization & deployment<br><br>System design for AI-powered applications<br>📚 I'm currently learning more about<br>Artificial Intelligence & Machine Learning<br>Deep Learning and NLP<br>Applying AI in real-world products<br>💬 Ask me about<br>AI/ML basics<br>Gen AI<br>Web development (Flask, frontend)<br><br>Resume-building platforms & project design<br><br>✨ Fun fact<br><br>I enjoy turning complex technical concepts into simple, easy-to-understand explanations 😄<br>
+## 👋 Hey there! I’m Mishka 👩‍💻✨  
+
+🚀 **Currently Working On**  
+Building **practical, scalable tech solutions** for startups — turning ideas into products that actually work in the real world.  
+
+🤝 **Looking to Collaborate On**  
+- 🤖 **AI / ML projects** that solve meaningful problems  
+- 🌐 **Web applications & product-based startups**  
+- 🧩 **Open-source projects** with real-world impact  
+
+🧠 **Looking for Help With**  
+- Advanced **AI & ML concepts**  
+- ⚡ Model **optimization, deployment & scaling**  
+- 🏗️ System design for **AI-powered applications**  
+
+📚 **Currently Learning**  
+- 🧠 Artificial Intelligence & Machine Learning  
+- 🔬 Deep Learning & **NLP**  
+- 🚀 Applying AI to **real-world products**  
+
+💬 **Ask Me About**  
+- AI / ML fundamentals  
+- ✨ **Generative AI**  
+- 🌐 Web development (**Flask + Frontend**)  
+- 📄 Resume-building platforms & project design  
+
+✨ **Fun Fact**  
+I love breaking down **complex technical concepts** into simple, easy-to-understand explanations 😄  
+
 
 
 ## 🌐 Socials:
