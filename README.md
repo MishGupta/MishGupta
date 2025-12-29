@@ -1,5 +1,5 @@
-# 💫 About Me:
-## 👋 Hey there! I’m Mishka 👩‍💻✨  
+# About Me:
+## Hey there! I’m Mishka 👩‍💻✨  
 
 🚀 **Currently Working On**  
 Building **practical, scalable tech solutions** for startups — turning ideas into products that actually work in the real world.  
